@@ -14,7 +14,7 @@ The code used in the paper shall be obtained here.
 [Deformable Detr](https://github.com/open-mmlab/mmdetection/blob/master/configs/deformable_detr/README.md) /
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The pretrained weights and models can be obtained from:
+The pretrained weights and models can be obtained from: [Download](https://drive.google.com/file/d/1Slen2k5ET3XGjSdrtH7FGbR9YqOqMy4z/view?usp=sharing)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
