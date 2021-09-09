@@ -7,11 +7,11 @@ The code used in the paper shall be obtained here.
 [CenterNet](https://github.com/xingyizhou/CenterNet/blob/master/readme/INSTALL.md) /
 [CenterNet2](https://github.com/facebookresearch/detectron2/blob/main/GETTING_STARTED.md) /
 [YOLOv4_Scaled](https://github.com/WongKinYiu/ScaledYOLOv4) / 
-[Faster-RCNN](https://github.com/open-mmlab/mmdetection/tree/master/configs/faster_rcnn) /
-[Cascade-RCNN](https://github.com/open-mmlab/mmdetection/tree/master/configs/cascade_rcnn) /
-[Foveabox](https://github.com/open-mmlab/mmdetection/tree/master/configs/foveabox) /
-[DetectoRS](https://github.com/open-mmlab/mmdetection/blob/master/configs/detectors/README.md) /
-[Deformable Detr](https://github.com/open-mmlab/mmdetection/blob/master/configs/deformable_detr/README.md) /
+[Faster-RCNN](https://github.com/open-mmlab/mmdetection/blob/master/docs/get_started.md) /
+[Cascade-RCNN](https://github.com/open-mmlab/mmdetection/blob/master/docs/get_started.md) /
+[Foveabox](https://github.com/open-mmlab/mmdetection/blob/master/docs/get_started.md) /
+[DetectoRS](https://github.com/open-mmlab/mmdetection/blob/master/docs/get_started.md) /
+[Deformable Detr](https://github.com/open-mmlab/mmdetection/blob/master/docs/get_started.md) /
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The pretrained weights and models can be obtained from: [Download](https://drive.google.com/file/d/1Slen2k5ET3XGjSdrtH7FGbR9YqOqMy4z/view?usp=sharing)
