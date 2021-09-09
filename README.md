@@ -5,7 +5,7 @@ The code used in the paper shall be obtained here.
 
 **Installation**
 [CenterNet](https://github.com/xingyizhou/CenterNet/blob/master/readme/INSTALL.md) /
-[CenterNet2](https://github.com/xingyizhou/CenterNet2) /
+[CenterNet2](https://github.com/facebookresearch/detectron2/blob/main/GETTING_STARTED.md) /
 [YOLOv4_Scaled](https://github.com/WongKinYiu/ScaledYOLOv4) / 
 [Faster-RCNN](https://github.com/open-mmlab/mmdetection/tree/master/configs/faster_rcnn) /
 [Cascade-RCNN](https://github.com/open-mmlab/mmdetection/tree/master/configs/cascade_rcnn) /
