@@ -14,12 +14,10 @@ The code used in the paper shall be obtained here.
 [Deformable Detr](https://github.com/open-mmlab/mmdetection/blob/master/docs/get_started.md) /
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The pretrained weights and models can be obtained from: [Download](https://drive.google.com/file/d/1Slen2k5ET3XGjSdrtH7FGbR9YqOqMy4z/view?usp=sharing)
+If you use this dataset in your research, please cite this project.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Citation**
-If you use this toolbox or benchmark in your research, please cite this project.
-
-" "
+Sathian Dananjayan, Yu Tang, Jiajun Zhuang, Chaojun Hou, Shaoming Luo,
+Assessment of state-of-the-art deep learning based citrus disease detection techniques using annotated optical leaf images,
+Computers and Electronics in Agriculture, Volume 193, 2022, 106658, ISSN 0168-1699,
+https://doi.org/10.1016/j.compag.2021.106658.
 
